@@ -10,7 +10,7 @@ Once the options window is open, goto `Whisper` in your sidebar
 
 ![](options.png)
 
-Untick the boxes for `Play notify sound when recieving a whisper` and `Always show whisper history when recieving a whisper`
+Untick the boxes for `Play notify sound when recieving a whisper` and `Always show whisper history when recieving a whisper`. This stops teamspeak creating a popup box with a list of who used whisper lists recently.
 
 Click the `Whisper Lists` button, and another dialog should pop up
 
