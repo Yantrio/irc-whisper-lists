@@ -33,3 +33,5 @@ Only use the whisper list for urgent intellegence sharing, (neutrals in the area
 Once intel has been called, join the Backyard room, and proceed to fight and join in home defense as normal. 
 
 REMEMBER: Home defense is mandatory, and FCs will be taking note of those who do not participate.
+
+<br><br><br><br>
